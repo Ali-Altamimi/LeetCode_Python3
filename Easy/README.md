@@ -1,5 +1,4 @@
-# Type Easy
-## Problems name:
+# Problems type "Easy"
 
 
 Id  | Name
