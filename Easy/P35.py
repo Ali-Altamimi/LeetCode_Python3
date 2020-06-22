@@ -8,4 +8,3 @@ def searchInsert(nums: List[int], target: int) -> int:
 
 
 
-searchInsert([1,2,4,5], 4)
